@@ -1,0 +1,6 @@
+[submodule "lets_cook_frontend"]
+	path = lets_cook_frontend
+	url = https://github.com/oliviatian27/lets_cook_frontend.git
+[submodule "lets_cook_backend"]
+	path = lets_cook_backend
+	url = https://github.com/oliviatian27/lets_cook_backend.git
